@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="733ed636-3068-44dc-9e19-47dbb3d4c7a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/config/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/dao/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/dao/projetDAO/IProjet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/dao/projetDAO/ProjetImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/dao/roleDAO/IRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/dao/roleDAO/RoleImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/dao/userDAO/IUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/dao/userDAO/UserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/entities/Projet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/entities/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/lpgl/entities/User.java" afterDir="false" />
+    <list default="true" id="733ed636-3068-44dc-9e19-47dbb3d4c7a8" name="Changes" comment="Create factories">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +63,79 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686250386414</updated>
-      <workItem from="1686250387711" duration="6565000" />
+      <workItem from="1686250387711" duration="6894000" />
     </task>
+    <task id="LOCAL-00001" summary="Create factories">
+      <created>1686257268935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686257268935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create factories" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create factories" />
   </component>
 </project>
